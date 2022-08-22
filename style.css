@@ -1,3 +1,11 @@
 body {
     font-family: 'Merriweather', serif;
 }
+
+.first-page {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 34%;
+    margin-bottom: 100px;
+}
