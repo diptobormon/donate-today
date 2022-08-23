@@ -160,6 +160,7 @@ body {
 
 
 
+
 footer {
     text-align: center;
     background-color: black;
@@ -173,4 +174,34 @@ footer {
 .last {
     color: wheat;
     padding-bottom: 30px;
+}
+
+
+
+.newsfeed {
+    text-align: center;
+    background-color: aqua;
+
+
+}
+
+#touch {
+    font-size: 60px;
+    padding-top: 30px;
+
+}
+
+#updates {
+    font-size: 20px;
+
+}
+
+.text {
+    font-size: 20px;
+    background-color: aliceblue;
+}
+
+.submit {
+    font-size: 20px;
+    background-color: coral;
 }
