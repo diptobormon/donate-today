@@ -158,7 +158,17 @@ body {
 
 
 
+.faq-qsn-ans {
+    text-align: center;
+    padding-bottom: 10px;
+}
 
+.faq-section {
+    background-color: rgb(245, 229, 184);
+    padding: 30px;
+    margin: 0 30px 200px 30px;
+
+}
 
 
 footer {
@@ -181,7 +191,8 @@ footer {
 .newsfeed {
     text-align: center;
     background-color: aqua;
-
+    padding: 40px;
+    margin: 30px;
 
 }
 
